@@ -1,6 +1,6 @@
 # 🐍 Klaidi Zerellari
 
-**`Digital Craftsman (Developer/Ethical-Hacker)`**
+**`Digital Craftsman`**
 
 I'm an indie Software Developer/Engineer building my version of the digital world (using mostly open-source) one step at a time. Except the coding projects, I do hardware projects as well...and some cyber security ones from time to time ;).
 
