@@ -51,4 +51,7 @@ I'm an indie Software Developer/Engineer building my version of the digital worl
 
 ### 📊 Stats
 
-![Klaidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=klaidi-zerellari&show_icons=true&theme=gotham)
+![Klaidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=klaidi-zerellari&show_icons=true&theme=tokyonight)
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klaidi-zerellari&layout=compact=true&theme=tokyonight)](https://github.com/klaidi-zerellari/github-readme-stats)
