@@ -52,4 +52,4 @@ I'm an indie Software Developer/Engineer building my version of the digital worl
 ![Klaidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=klaidi-zerellari&show_icons=true&theme=tokyonight)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klaidi-zerellari&layout=compact=true&theme=tokyonight)](https://github.com/klaidi-zerellari/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=klaidi-zerellari&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
